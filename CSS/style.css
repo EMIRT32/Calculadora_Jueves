@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: sans-serif;
+    background-color: rgb(142, 96, 186);
+}
+.camposNum{
+    margin-bottom: 30px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.camposboton :hover{
+    background-color: rgb(27, 128, 40);
+    
+    border-color: rgb(20, 20, 145);
+}
+
+.caja{
+    width: 40%;
+    margin: auto;
+    margin-top: 100px;
+}
